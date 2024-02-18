@@ -1,0 +1,96 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@" : {
+
+    },
+    "Cancel anytime" : {
+
+    },
+    "Color overlay" : {
+
+    },
+    "Dont have an account ?" : {
+
+    },
+    "first screen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get instant Free access."
+          }
+        }
+      }
+    },
+    "Flow Lifestyle" : {
+
+    },
+    "Free trial / 7 days" : {
+
+    },
+    "GO PRO" : {
+
+    },
+    "License" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "By signing up you agree to our Terms and conditions and agree to recive our Newsletter."
+          }
+        }
+      }
+    },
+    "My projects" : {
+
+    },
+    "New project" : {
+
+    },
+    "Save 60%" : {
+
+    },
+    "Sign in" : {
+
+    },
+    "Sign In to Vclip" : {
+
+    },
+    "Sign In with Email" : {
+
+    },
+    "Sign In with Google" : {
+
+    },
+    "Subscribe / 8,99 weekly" : {
+
+    },
+    "Trim Video" : {
+
+    },
+    "Trimming Progress: %lf" : {
+
+    },
+    "Unlock" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlock all features and make professional videos"
+          }
+        }
+      }
+    },
+    "VCLIP" : {
+
+    },
+    "whoops" : {
+
+    }
+  },
+  "version" : "1.0"
+}
