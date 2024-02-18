@@ -77,7 +77,6 @@ struct VideoEditorView: View {
                         customToolview(text: "Overlay", imageName: "overlay")
                         //  customToolview(text: "Ratio", imageName: "ratio")
                         
-                        
                     }
                     
                 }
