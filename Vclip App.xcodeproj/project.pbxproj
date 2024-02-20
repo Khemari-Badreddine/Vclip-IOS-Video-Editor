@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		EB165D0B2B6E890200C136F4 /* VideoEditorSDK in Frameworks */ = {isa = PBXBuildFile; productRef = EB165D0A2B6E890200C136F4 /* VideoEditorSDK */; };
 		EB1FD4902B6BB1FB00BA863B /* ProjectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1FD48F2B6BB1FB00BA863B /* ProjectsView.swift */; };
 		EB2B8A482B827D7700C46F27 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = EB2B8A432B827D7600C46F27 /* 3.png */; };
 		EB2B8A492B827D7700C46F27 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = EB2B8A442B827D7700C46F27 /* 1.png */; };
@@ -56,7 +55,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EB165D0B2B6E890200C136F4 /* VideoEditorSDK in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -170,7 +168,6 @@
 			);
 			name = "Vclip App";
 			packageProductDependencies = (
-				EB165D0A2B6E890200C136F4 /* VideoEditorSDK */,
 			);
 			productName = "Vclip App";
 			productReference = EB3433112B503590006A0A27 /* Vclip App.app */;
@@ -201,7 +198,6 @@
 			);
 			mainGroup = EB3433082B503590006A0A27;
 			packageReferences = (
-				EB165D092B6E890200C136F4 /* XCRemoteSwiftPackageReference "vesdk-ios-build" */,
 			);
 			productRefGroup = EB3433122B503590006A0A27 /* Products */;
 			projectDirPath = "";
@@ -454,25 +450,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCRemoteSwiftPackageReference section */
-		EB165D092B6E890200C136F4 /* XCRemoteSwiftPackageReference "vesdk-ios-build" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/imgly/vesdk-ios-build.git";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 11.8.0;
-			};
-		};
-/* End XCRemoteSwiftPackageReference section */
-
-/* Begin XCSwiftPackageProductDependency section */
-		EB165D0A2B6E890200C136F4 /* VideoEditorSDK */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = EB165D092B6E890200C136F4 /* XCRemoteSwiftPackageReference "vesdk-ios-build" */;
-			productName = VideoEditorSDK;
-		};
-/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = EB3433092B503590006A0A27 /* Project object */;
 }

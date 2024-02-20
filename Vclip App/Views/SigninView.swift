@@ -79,7 +79,6 @@ struct CustomButtonStyle: ButtonStyle {
             )
             .cornerRadius(8)
     }
-    
 }
 
 
