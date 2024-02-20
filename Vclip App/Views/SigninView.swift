@@ -81,7 +81,6 @@ struct CustomButtonStyle: ButtonStyle {
     }
 }
 
-
 #Preview {
     SigninView()
 }
