@@ -1,6 +1,6 @@
 # Vclip App
 This video editor is my first IOS project, i liked the challenge this offered, For now its basically just the app's UI but in the future i will finish this app when i learn more.
-Here are some screenshots of my work:
+Here are some screenshots:
 
 ![1](Vclip%20App/Screenshots/1.png)
 ![2](Vclip%20App/Screenshots/2.png)
