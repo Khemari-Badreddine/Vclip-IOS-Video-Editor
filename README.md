@@ -3,7 +3,6 @@ This video editor is my first IOS project, i liked the challenge this offered, F
 Here are some screenshots:
 
 ![1](Vclip%20App/Screenshots/1.png)
-![2](Vclip%20App/Screenshots/2.png)
 ![3](Vclip%20App/Screenshots/3.png)
 ![4](Vclip%20App/Screenshots/4.png)
 ![5](Vclip%20App/Screenshots/5.png)
